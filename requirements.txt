@@ -5,7 +5,7 @@ tqdm==4.66.1
 prodict==0.8.18
 langchain==0.2.7
 openai==1.35.10
-tiktoken==0.7.0
+tiktoken==0.14.0
 easydict==1.11
 wandb==0.16.0
 transformers==4.35.2
