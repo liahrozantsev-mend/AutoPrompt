@@ -1,5 +1,5 @@
 argilla==1.25.0
-schedule==1.2.1
+schedule==1.2.2
 pandas==1.5.3
 tqdm==4.66.1
 prodict==0.8.18
